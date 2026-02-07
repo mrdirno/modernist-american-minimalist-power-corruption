@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-minimalist-power-corruption",
+  "title": "The Silence He Enforced",
+  "tagline": "In a city of flat light and quiet men, a bureaucrat learns that the system he serves is a calibrated instrument of violence.",
+  "target_words": 96634,
+  "actual_words": 96634,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Violence",
+    "The Anonymity of Power",
+    "Moral Erosion in Systems",
+    "The Weight of Complicity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Black Sedan at the Curb",
+      "words": 8784
+    },
+    {
+      "ch": 2,
+      "title": "The Color of a Bruise",
+      "words": 8784
+    },
+    {
+      "ch": 3,
+      "title": "A Brittle, Cold Sunlight",
+      "words": 8784
+    },
+    {
+      "ch": 4,
+      "title": "A Thin Layer of Ice",
+      "words": 8784
+    },
+    {
+      "ch": 5,
+      "title": "The Weight Against His Thigh",
+      "words": 8784
+    },
+    {
+      "ch": 6,
+      "title": "A Piece of Static",
+      "words": 8784
+    },
+    {
+      "ch": 7,
+      "title": "A Bundle of Grey",
+      "words": 8784
+    },
+    {
+      "ch": 8,
+      "title": "Through the Branches Like Water",
+      "words": 8784
+    },
+    {
+      "ch": 9,
+      "title": "The Silence He Enforced",
+      "words": 8784
+    },
+    {
+      "ch": 10,
+      "title": "A Square of Waxed Paper",
+      "words": 8784
+    },
+    {
+      "ch": 11,
+      "title": "A Calibrated Instrument",
+      "words": 8784
+    }
+  ]
+}
